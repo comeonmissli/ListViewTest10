@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewTest10</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="books">
+       <item>Android开发平台之旅</item> 
+        <item>Android开发案例驱动器</item>
+        <item>Android揭秘</item>
+        <item>疯狂Android讲义</item>
+        <item>Android从零开始</item>
+    </string-array>
+
+</resources>
